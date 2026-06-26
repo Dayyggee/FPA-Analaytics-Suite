@@ -1,0 +1,31 @@
+ticker,company,fiscal_year,expense_category,amount_M,amount_B,pct_of_opex,source
+LNC,Lincoln National,2020,Policy Benefits,10901,10.9,68.9,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
+LNC,Lincoln National,2021,Policy Benefits,11832,11.83,69.3,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
+LNC,Lincoln National,2022,Policy Benefits,14698,14.7,73.6,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
+LNC,Lincoln National,2023,Policy Benefits,9124,9.12,61.7,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
+LNC,Lincoln National,2024,Policy Benefits,9872,9.87,63.1,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
+LNC,Lincoln National,2020,Commissions,2819,2.82,17.8,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
+LNC,Lincoln National,2021,Commissions,2781,2.78,16.3,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
+LNC,Lincoln National,2022,Commissions,2801,2.8,14.0,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
+LNC,Lincoln National,2023,Commissions,2761,2.76,18.7,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
+LNC,Lincoln National,2024,Commissions,2836,2.84,18.1,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
+LNC,Lincoln National,2020,Other OpEx,2101,2.1,13.3,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
+LNC,Lincoln National,2021,Other OpEx,2456,2.46,14.4,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
+LNC,Lincoln National,2022,Other OpEx,2476,2.48,12.4,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
+LNC,Lincoln National,2023,Other OpEx,2893,2.89,19.6,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
+LNC,Lincoln National,2024,Other OpEx,2935,2.94,18.8,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
+UNM,Unum Group,2020,Policy Benefits,7825,7.83,72.4,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
+UNM,Unum Group,2021,Policy Benefits,7598,7.6,71.8,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
+UNM,Unum Group,2022,Policy Benefits,7012,7.01,69.3,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
+UNM,Unum Group,2023,Policy Benefits,7680,7.68,72.0,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
+UNM,Unum Group,2024,Policy Benefits,7420,7.42,70.4,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
+UNM,Unum Group,2020,Commissions,1057,1.06,9.8,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
+UNM,Unum Group,2021,Commissions,1057,1.06,10.0,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
+UNM,Unum Group,2022,Commissions,1082,1.08,10.7,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
+UNM,Unum Group,2023,Commissions,1139,1.14,10.7,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
+UNM,Unum Group,2024,Commissions,1188,1.19,11.3,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
+UNM,Unum Group,2020,Other OpEx,1930,1.93,17.9,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
+UNM,Unum Group,2021,Other OpEx,1922,1.92,18.2,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
+UNM,Unum Group,2022,Other OpEx,2031,2.03,20.1,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
+UNM,Unum Group,2023,Other OpEx,1850,1.85,17.3,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
+UNM,Unum Group,2024,Other OpEx,1933,1.93,18.3,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice

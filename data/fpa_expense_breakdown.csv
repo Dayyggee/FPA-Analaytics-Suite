@@ -1,0 +1,36 @@
+ticker,company,fiscal_year,expense_category,amount_M,amount_B,pct_of_total_opex,source
+HCA,HCA Healthcare,2020,Salaries & Benefits,22861,22.86,51.6,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
+HCA,HCA Healthcare,2021,Salaries & Benefits,26148,26.15,53.3,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
+HCA,HCA Healthcare,2022,Salaries & Benefits,27500,27.5,53.7,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
+HCA,HCA Healthcare,2023,Salaries & Benefits,29400,29.4,53.1,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
+HCA,HCA Healthcare,2024,Salaries & Benefits,32000,32.0,53.3,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
+HCA,HCA Healthcare,2020,Supplies,9481,9.48,21.4,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
+HCA,HCA Healthcare,2021,Supplies,9481,9.48,19.3,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
+HCA,HCA Healthcare,2022,Supplies,9800,9.8,19.1,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
+HCA,HCA Healthcare,2023,Supplies,10500,10.5,19.0,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
+HCA,HCA Healthcare,2024,Supplies,11500,11.5,19.1,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
+HCA,HCA Healthcare,2020,Other Operating,9307,9.31,21.0,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
+HCA,HCA Healthcare,2021,Other Operating,9961,9.96,20.3,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
+HCA,HCA Healthcare,2022,Other Operating,10800,10.8,21.1,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
+HCA,HCA Healthcare,2023,Other Operating,11900,11.9,21.5,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
+HCA,HCA Healthcare,2024,Other Operating,12900,12.9,21.5,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
+HCA,HCA Healthcare,2020,D&A,2622,2.62,5.9,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
+HCA,HCA Healthcare,2021,D&A,3484,3.48,7.1,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
+HCA,HCA Healthcare,2022,D&A,3080,3.08,6.0,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
+HCA,HCA Healthcare,2023,D&A,3541,3.54,6.4,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
+HCA,HCA Healthcare,2024,D&A,3656,3.66,6.1,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
+HUM,Humana Inc,2020,Benefits Expense,61628,61.63,85.4,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
+HUM,Humana Inc,2021,Benefits Expense,69199,69.2,86.6,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
+HUM,Humana Inc,2022,Benefits Expense,75690,75.69,85.0,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
+HUM,Humana Inc,2023,Benefits Expense,88394,88.39,86.4,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
+HUM,Humana Inc,2024,Benefits Expense,98000,98.0,85.8,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
+HUM,Humana Inc,2020,Operating Costs,10052,10.05,13.9,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
+HUM,Humana Inc,2021,Operating Costs,10121,10.12,12.7,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
+HUM,Humana Inc,2022,Operating Costs,12671,12.67,14.2,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
+HUM,Humana Inc,2023,Operating Costs,13188,13.19,12.9,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
+HUM,Humana Inc,2024,Operating Costs,15400,15.4,13.5,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
+HUM,Humana Inc,2020,D&A,489,0.49,0.7,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
+HUM,Humana Inc,2021,D&A,596,0.6,0.7,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
+HUM,Humana Inc,2022,D&A,709,0.71,0.8,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
+HUM,Humana Inc,2023,D&A,779,0.78,0.8,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
+HUM,Humana Inc,2024,D&A,800,0.8,0.7,Annual figures: SEC EDGAR 10-K Filings (audited) | Quarterly: estimated from annual totals | Projections: modeled scenarios only — not investment advice
